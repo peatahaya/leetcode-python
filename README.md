@@ -24,18 +24,18 @@ time & space complexity analysis, and idiomatic Python code.
 
 ## 📁 Repository Structure
 
-leetcode-python/
-├── easy/
-│     ├── two_sum.py
-│     ├── valid_parentheses.py
-│     └── ...
-├── medium/
-│     ├── group_anagrams.py
-│     ├── longest_substring.py
-│     └── ...
-├── hard/
-│     └── ...
-├── README.md
+leetcode-python/ <br>
+├── easy/ <br>
+│     ├── two_sum.py <br>
+│     ├── valid_parentheses.py <br>
+│     └── ... <br>
+├── medium/ <br>
+│     ├── group_anagrams.py <br>
+│     ├── longest_substring.py <br>
+│     └── ... <br>
+├── hard/ <br>
+│     └── ... <br>
+├── README.md <br>
 
 
 Each file follows a unified template:
@@ -143,7 +143,3 @@ No spam, no “fix” or “update” commits
 
 </div>
 
-- zrobić **wersję minimalistyczną**,
-- zrobić **wersję z automatycznym licznikiem w HTML**.
-
-Powiedz tylko, w którą stronę chcesz to dopieścić.

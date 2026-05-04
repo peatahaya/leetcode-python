@@ -1,34 +1,46 @@
-🧠 LeetCode Python — Structured Problem‑Solving & Algorithmic Thinking
-A curated collection of solutions to LeetCode Top Interview 150 and selected problems across key categories such as Arrays, Hash Maps, Two Pointers, Sliding Window, Trees, Graphs, and Dynamic Programming.
-The repository is maintained in a clean, consistent, and well‑structured manner — each solution includes:
+<div align="center">
 
-a problem description,
+<h1>🧠 LeetCode Python</h1>
 
-the chosen approach and reasoning,
+<p><strong>Structured Problem‑Solving & Algorithmic Thinking</strong></p>
 
-time and space complexity analysis,
+<p>
+A curated collection of Python solutions to <strong>LeetCode Top Interview 150</strong>  
+and selected problems across key categories such as Arrays, Hash Maps,  
+Two Pointers, Sliding Window, Trees, Graphs, and Dynamic Programming.
+</p>
 
-clean, idiomatic Python code.
+<p>
+Maintained in a <strong>clean, consistent, and well‑structured</strong> format —  
+each solution includes a problem description, approach explanation,  
+time & space complexity analysis, and idiomatic Python code.
+</p>
 
-The goal of this repository is to systematically build algorithmic thinking skills essential for technical interviews for Python/Django Developer roles.
+<hr width="60%">
 
-📁 Repository Structure
-Kod
+</div>
+
+<br>
+
+## 📁 Repository Structure
+
 leetcode-python/
-  ├── easy/
-  │     ├── two_sum.py
-  │     ├── valid_parentheses.py
-  │     └── ...
-  ├── medium/
-  │     ├── group_anagrams.py
-  │     ├── longest_substring.py
-  │     └── ...
-  ├── hard/
-  │     └── ...
-  ├── README.md
+├── easy/
+│     ├── two_sum.py
+│     ├── valid_parentheses.py
+│     └── ...
+├── medium/
+│     ├── group_anagrams.py
+│     ├── longest_substring.py
+│     └── ...
+├── hard/
+│     └── ...
+├── README.md
+
+
 Each file follows a unified template:
 
-python
+```python
 """
 Problem: Two Sum
 Difficulty: Easy
@@ -42,12 +54,21 @@ Approach:
 class Solution:
     def twoSum(self, nums, target):
         ...
+
+<br>
+
 🎯 Repository Goals
-develop strong algorithmic thinking,
+<div align="center">
 
-prepare for technical interviews (Python / Backend),
+<table>
+<tr>
+<td align="left">
 
-reinforce core problem‑solving patterns:
+Develop strong algorithmic thinking
+
+Prepare for technical interviews (Python / Backend)
+
+Reinforce core problem‑solving patterns:
 
 Hash Map
 
@@ -61,30 +82,78 @@ Trees & Graphs
 
 Dynamic Programming
 
-build consistency and discipline (1–2 problems per day),
+Build consistency & discipline (1–2 problems per day)
 
-document progress in a way that is clear and useful for recruiters.
+Document progress clearly for recruiters
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 📊 Progress (updated manually)
-Solved: X
+<div align="center">
 
-Easy: X
+Metric	Count
+Solved	X
+Easy	X
+Medium	X
+Hard	X
 
-Medium: X
 
-Hard: X
+</div>
 
 (Fill in the numbers once you start committing.)
 
-🧩 Commit Guidelines
-one commit = one solution,
+<br>
 
-clear and descriptive commit messages, e.g.:
+🧩 Commit Guidelines
+<div align="center">
+
+<table>
+<tr>
+<td align="left">
+
+One commit = one solution
+
+Clear, descriptive commit messages, e.g.:
 
 feat: add easy/two_sum (hash map O(n))
 
 feat: add medium/group_anagrams (sorting approach)
 
-only final, working solutions,
+Only final, working solutions
 
-no spam, no “fix” or “update” commits.
+No spam, no “fix” or “update” commits
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+✨ Consistent practice builds real skill. This repo documents the journey. ✨
+
+</div>
+
+
+---
+
+# 🔥 Co dalej?
+
+Jeśli chcesz, mogę:
+
+- dodać **ikony technologii** (Python, LeetCode, GitHub),
+- dodać **badge’e** (solved count, Python version, repo stats),
+- zrobić **wersję z gradientami i custom HTML layoutem**,
+- zrobić **wersję minimalistyczną**,
+- zrobić **wersję z automatycznym licznikiem w HTML**.
+
+Powiedz tylko, w którą stronę chcesz to dopieścić.

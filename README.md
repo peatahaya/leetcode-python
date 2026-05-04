@@ -143,16 +143,6 @@ No spam, no “fix” or “update” commits
 
 </div>
 
-
----
-
-# 🔥 Co dalej?
-
-Jeśli chcesz, mogę:
-
-- dodać **ikony technologii** (Python, LeetCode, GitHub),
-- dodać **badge’e** (solved count, Python version, repo stats),
-- zrobić **wersję z gradientami i custom HTML layoutem**,
 - zrobić **wersję minimalistyczną**,
 - zrobić **wersję z automatycznym licznikiem w HTML**.
 
